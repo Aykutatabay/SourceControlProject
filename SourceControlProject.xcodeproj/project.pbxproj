@@ -11,6 +11,7 @@
 		B578C7A22CD00BA3000D9BA2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B578C7A12CD00BA3000D9BA2 /* ContentView.swift */; };
 		B578C7A42CD00BA4000D9BA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B578C7A32CD00BA4000D9BA2 /* Assets.xcassets */; };
 		B578C7A72CD00BA4000D9BA2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B578C7A62CD00BA4000D9BA2 /* Preview Assets.xcassets */; };
+		B578C7AE2CD020E2000D9BA2 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B578C7AD2CD020E2000D9BA2 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B578C7A12CD00BA3000D9BA2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B578C7A32CD00BA4000D9BA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B578C7A62CD00BA4000D9BA2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B578C7AD2CD020E2000D9BA2 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B578C79F2CD00BA3000D9BA2 /* SourceControlProjectApp.swift */,
 				B578C7A12CD00BA3000D9BA2 /* ContentView.swift */,
+				B578C7AD2CD020E2000D9BA2 /* HomeView.swift */,
 				B578C7A32CD00BA4000D9BA2 /* Assets.xcassets */,
 				B578C7A52CD00BA4000D9BA2 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B578C7AE2CD020E2000D9BA2 /* HomeView.swift in Sources */,
 				B578C7A22CD00BA3000D9BA2 /* ContentView.swift in Sources */,
 				B578C7A02CD00BA3000D9BA2 /* SourceControlProjectApp.swift in Sources */,
 			);
