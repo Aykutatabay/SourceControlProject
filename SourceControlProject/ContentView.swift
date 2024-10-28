@@ -18,6 +18,13 @@ struct ContentView: View {
             Text("I love Swift")
                 .bold()
                 .font(.system(size: 25))
+            
+            Button {
+                
+            } label: {
+                Text("Click Me")
+            }
+
         }
         .padding()
     }
