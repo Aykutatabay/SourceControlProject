@@ -15,10 +15,6 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("I love Swift")
-                .bold()
-                .font(.system(size: 25))
-            
             Button {
                 print("I love Swift!")
             } label: {
@@ -26,7 +22,7 @@ struct ContentView: View {
             }
             
             ForEach(0..<10) { _ in
-                Text("Swift")
+                Text("SwiftUI")
             }
 
         }
