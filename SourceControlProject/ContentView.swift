@@ -16,7 +16,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Button {
-                print("I love Swift!")
+                print("I love SwiftUI")
             } label: {
                 Text("Click Me")
             }
