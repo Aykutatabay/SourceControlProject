@@ -22,7 +22,7 @@ struct ContentView: View {
             }
             
             ForEach(0..<10) { _ in
-                Text("Swift")
+                Text("SwiftUI")
             }
 
         }
