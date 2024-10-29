@@ -26,7 +26,7 @@ struct ContentView: View {
             }
             
             ForEach(0..<10) { _ in
-                Text("Swift <3 Aykut")
+                Text("Swift")
             }
 
         }
