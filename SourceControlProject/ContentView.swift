@@ -20,7 +20,7 @@ struct ContentView: View {
                 .font(.system(size: 25))
             
             Button {
-                Text("I love Swift!")
+                print("I love Swift!")
             } label: {
                 Text("Click Me")
             }
