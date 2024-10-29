@@ -24,6 +24,10 @@ struct ContentView: View {
             } label: {
                 Text("Click Me")
             }
+            
+            ForEach(0..<10) { _ in
+                Text("SwiftUI")
+            }
 
         }
         .padding()
