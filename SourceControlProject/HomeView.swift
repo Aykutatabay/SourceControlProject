@@ -13,7 +13,7 @@ struct HomeView: View {
             Text("Hello, SwiftUI")
             ForEach(0..<2) { _ in
                 HStack {
-                    Image(systemName: "heart.fill")
+                    Image(systemName: "bolt.fill")
                     Text("SwiftUI")
                 }
             }
