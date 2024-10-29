@@ -9,7 +9,15 @@ import SwiftUI
 
 struct SettingsView: View {
     var body: some View {
-        Text("Settings View!")
+        VStack {
+            Text("Settings View!")
+            Button {
+                
+            } label: {
+                Text("tap me!")
+            }
+
+        }
     }
 }
 
