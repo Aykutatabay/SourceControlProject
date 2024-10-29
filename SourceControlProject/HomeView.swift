@@ -10,9 +10,9 @@ import SwiftUI
 struct HomeView: View {
     var body: some View {
         VStack {
-            Text("Hello, Swift")
+            Text("Hello, Aykut")
             ForEach(0..<2) { _ in
-                Text("Swift")
+                Text("Aykut")
             }
         }
     }
