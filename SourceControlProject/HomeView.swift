@@ -12,7 +12,7 @@ struct HomeView: View {
         VStack {
             Text("Hello, Swift")
             ForEach(0..<2) { _ in
-                Text("Aykut")
+                Text("Swift")
             }
         }
     }
